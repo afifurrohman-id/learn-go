@@ -1,13 +1,13 @@
 # Learning Go Language
 
-## Requirements
-- Go 1.20.x
+## Requirements:
+- Go (version >= 1.20.x)
 
-### [Hello World](hello-world/README.md)
-> [code](hello-world/main.go)
+### [Hello World](src/1/README.md)
+> [code](src/1/hello-world.go)
 
-### [Variable](variable/README.md)
-> [code](variable/main.go)
+### [Variable](src/2/README.md)
+> [code](src/2/variable.go)
 
-### [Data Types](data-types/README.md)
-> [code](data-types/main.go)
+### [Data Types](src/3/README.md)
+> [code](src/3/data-types.go)

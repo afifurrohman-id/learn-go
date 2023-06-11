@@ -1,7 +1,7 @@
 go 1.20
 
 use (
-	./hello-world
-	./variable
-	./data-types
+	./src/1
+	./src/2
+	./src/3
 )
